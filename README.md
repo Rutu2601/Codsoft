@@ -12,6 +12,14 @@ Description: Created a GUI-based calculator to perform basic arithmetic operatio
 Technologies: Python, Tkinter.
 Contributions: Designed the calculator interface, implemented event handling for button clicks, and integrated arithmetic operation logic
 
+3. Project 3:
+Description: Developed a classic Tic Tac Toe game with a graphical user interface (GUI). Players can take turns placing X and O symbols on a 3x3 grid, aiming to get three in a row horizontally, vertically, or diagonally.
+Technologies: Python, Tkinter.
+Contributions:
+Designed the game board layout using Tkinter widgets.
+Implemented logic for player moves, win conditions, and tie games.
+Created buttons for resetting the game and displaying the winner.
+
 **Learning Outcomes**
 During this internship, I gained hands-on experience in:
 
