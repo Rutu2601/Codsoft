@@ -1,4 +1,5 @@
-**CodSoft Projects**
+#CODSOFT PROJECTS
+
 Welcome to the repository of my internship projects at CodSoft. During my time at CodSoft, I had the opportunity to work on a variety of exciting and challenging projects that helped me enhance my skills and gain practical experience in software development.
 
 **Projects**
